@@ -1,0 +1,33 @@
+﻿Angie's Phonebook 2.0.0
+Written by Benjamin J. C. Reeve
+-------------------------------------
+
+
+Adding contacts
+
+In order to add a contact, fill in the "name", "address", "home" (This means home phone number), "mobile" and "notes" fields.
+Please ensure that you have not included a , in any of the fields, and also ensure that you do not press "enter" at any time
+while editing the notes section. The notes you have entered should be one long line, without any enter's.
+Once you have checked that everything you have entered is correct, click the "submit" button. Do not click the submit button
+twice, as this will add a duplicate of the currently viewed contact, which will have to be deleted (refer to the deleting
+contacts section)
+
+
+Viewing contacts
+
+In order to view a contact, double-click on their name in the list on the right-hand side of the application window. 
+Double-clicking anywhere in the list box without actually clicking on a name will bring up the information for the currently
+selected (shown in a blue box) contact. 
+
+
+Deleting/Editing contacts
+
+In order to delete a contact, click on the "open" button, which will open the file browser. From there, right-click on the
+file named "contacts.txt" and select "edit". If you delete a contact, make sure to remove the line they were on.
+If you do not know how to do this, continue reading, as this section contains instructions on how to properly remove the line
+.Do not leave an empty line at the end of the file - There should be no lines after the last contact in the list. If there 
+are, click down into that line and Backspace until the line is deleted. This will be indicated by your text cursor 
+(the blinking |) moving up to just after the last letter on the last line. To simply edit a contact, change the information
+in the text file, but do not remove or add any , 's, and also do not press Enter at any point.
+
+
